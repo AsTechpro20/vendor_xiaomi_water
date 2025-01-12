@@ -1557,18 +1557,4 @@ PRODUCT_PACKAGES += \
     WallpaperCropper \
     com.fingerprints.extension \
     vendor.silead.hardware.fingerprintext-V1.0-java \
-    android.hardware.biometrics.fingerprint@2.1-service \
-    android.hardware.dumpstate@1.1-service.xiaomi \
-    android.hardware.health@2.1 \
-    android.hardware.usb@1.2-service-mediatekv2 \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi.supplicant \
-    android.hardware.wifi@1.0-service \
-    lights-mtk-default \
-    manifest_android.hardware.drm@1.4-service.clearkey \
-    manifest_android.hardware.drm@1.4-service.widevine \
-    power-default \
-    vendor.xiaomi.hardware.misys@1.0 \
-    vendor.xiaomi.hardware.misys@2.0 \
-    vendor.xiaomi.hardware.misys@3.0 \
-    vibrator-mtk-default
+    android.hardware.biometrics.fingerprint@2.1-service 
